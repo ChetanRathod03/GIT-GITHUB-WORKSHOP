@@ -57,3 +57,4 @@
 
 
    Ky bolti public sab theek ye arra ky odhrr dekle 
+    Ab ye changes to hogya local se github ab github se machine bhi karle ye command se - git pull origin main
