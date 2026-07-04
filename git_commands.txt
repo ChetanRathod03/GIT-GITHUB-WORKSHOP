@@ -1,0 +1,56 @@
+    1  PWB
+    2  pwd
+    3  clear
+    4  git config --global user.name "ChetanRathod03"
+    5  git config --global user.email "chetanrathod71253@gmail.com"\
+    6  clear
+    7  git config user.name "chetanRathod03"
+    8  
+    9  clear
+   10  git config user.name "ChetanRathod03"
+   11  git config --global user.name Chetan
+   12  git config --global user.email chetanrathod71252@gmail.com
+   13  git config --global user.email
+   14  git config --global user.name
+   15   code .
+   16  git init 
+   17  ls -lart
+   18  git status
+   19  git add index.html 
+   20  git status
+   21  git commit
+   22  git --verson
+   23  pwd
+   24  git config -- user.name "Chetan"
+   25  git config -- user.email "chetanrathod71252@gmail.com"
+   26  git
+   27  Desktop
+   28  cd .\Desktopls
+   29  mkdir Project
+   30  cd .\Desktopmkdir Project
+   31  ls 
+   32  ls -l
+   33  rm testing.py
+   34  ls
+   35  ls -l
+   36  git init
+   37  ls
+   38  ls -a
+   39  git status
+   40  git status
+   41  git add testing.py
+   42  git rm --cache
+   43  git status
+   44  git rm --cached
+   45  git rm --cached testing.py
+   46  git status
+   47  git add .
+   48  git status
+   49  git commit -m "added testing file"
+   50  git status
+   51  rm testing.py
+   52  ls
+   53  git status
+   54  git restore testing.py
+   55  git status
+   56   history
