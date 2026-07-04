@@ -54,3 +54,6 @@
    54  git restore testing.py
    55  git status
    56   history
+
+
+   Ky bolti public sab theek ye arra ky odhrr dekle 
